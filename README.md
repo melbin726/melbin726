@@ -20,7 +20,7 @@
 - 🎨 Strong background in **UI/UX design** with focus on modern, clean aesthetics
 - 💡 Love solving complex problems with **innovative solutions**
 - 🤝 Open to collaborate on **full-stack projects** and **open-source contributions**
-- 📫 Reach me at: **melbinjoseph.dev@gmail.com**
+- 📫 Reach me at: **melbinj407@gmail.com**
 - ⚡ Fun fact: I turn coffee into code and designs into reality!
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
