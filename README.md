@@ -37,19 +37,7 @@
 
 </div>
 
-## 💼 Core Expertise
 
-**🅰️ Angular 16 Development**
-- Modern component architecture with **navigation** and **authentication**[2]
-- **Dashboard development** with focus on user experience[2]
-
-**🎨 UI/UX Design**
-- **Responsive UI components** with advanced **hover effects**
-- **Tailwind CSS** implementation for modern styling[2]
-
-**📊 Document Management**
-- **Document collections** with **submission tracking** systems[1]
-- **Interactive UI elements** for enhanced functionality[1]
 
 ## 🏆 GitHub Activity
 
@@ -75,8 +63,8 @@ Comprehensive user dashboards with intuitive navigation patterns
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://melbinjoseph.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/melbinjoseph)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:melbinjoseph.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/melbinjoseph](https://www.linkedin.com/in/melbin-joseph-96640a252/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:melbinj407@gmail.com)
 
 ---
 
