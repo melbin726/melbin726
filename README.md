@@ -1,26 +1,27 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=holi&border_color=4A628A)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=holi&border_color=4A628A)
-![Skills](https://skillicons.dev/icons?i=python,django,flask,dart,flutter,java,sqlite,mongodb,html,js,bootstrap,redis&theme=dark)
-<div align="center">
+<div>
 
-# Hi there! I'm [Your Name] 👋
+  <p align="center">
+    <a href="https://github.com/YOUR_USERNAME">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=holi&border_color=4A628A"/>
+    </a>
+  </p>
 
-## Full Stack Developer | Tech Enthusiast
+  <p align="center">
+    <a href="https://github.com/YOUR_USERNAME">
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=holi&show=prs_merged&hide=contribs&hide_title=true&border_color=4A628A"/>
+    </a>
+  </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=holi&border_color=4A628A"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=holi&show=prs_merged&hide=contribs&hide_title=true&border_color=4A628A"/>
-</p>
-
-### 🌐 Portfolio
-**[Visit My Portfolio](https://melbinjoseph.netlify.app/)**
-
-### Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,flask,dart,flutter,java,sqlite,mongodb,html,js,bootstrap,redis&theme=dark" width='400'/>
-</p>
-
+  <p align="center">
+    <a href="https://melbinjoseph.netlify.app/">
+      <img src="https://github.com/user-attachments/assets/95841bec-68db-4167-8f9d-bd567e0825bd" width='400'/>
+    </a>
+  </p>
+  
+  <h3 align="center">Languages & Tools</h3>
+  <p align="center">
+    <picture>
+      <img src="https://skillicons.dev/icons?i=python,django,flask,dart,flutter,java,sqlite,mongodb,html,js,bootstrap,redis,angular,tailwind&theme=dark" width='400'/>
+    </picture>
+  </p>
 </div>
