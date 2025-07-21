@@ -5,3 +5,29 @@
 ### 🎯 Passionate Frontend Developer | UI/UX Enthusiast | Problem Solver
 
 </div>
+
+## 🚀 About Me
+
+[Your about me section here]
+
+## 🛠️ Tech Stack & Skills
+
+[Your tech stack badges here]
+
+## 📊 GitHub Analytics
+
+[Your GitHub stats here]
+
+## 🚀 Featured Projects
+
+[Your projects section here]
+
+## 🤝 Connect With Me
+
+[Your social links here]
+
+## 📈 Contribution Activity
+
+[Your activity graph here]
+
+[Profile views counter]
