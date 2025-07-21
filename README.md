@@ -12,14 +12,13 @@
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer specializing in **Angular 16** with focus on navigation and user authentication
+- 💻 Full Stack Developer specializing in **Angular 16** with focus on navigation and user authentication[2]
 - 🎨 Expert in creating **responsive UI components** with **hover effects** and modern styling
-- 📋 Currently building **document management systems** with interactive UI elements
-- 🔐 Developing **dashboards** with **Tailwind CSS** for clean, professional interfaces
-- 📅 Working on **document collections** with emphasis on **submission date tracking**
+- 🔐 Experienced in **dashboard development** with **Tailwind CSS** for clean, professional interfaces[2]
+- 📋 Building **document management systems** with interactive UI elements[1]
 - 📫 Contact: **melbinjoseph.dev@gmail.com**
 
-## 🛠️ Current Tech Stack
+## 🛠️ Tech Stack
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -38,36 +37,19 @@
 
 </div>
 
-## 🎯 Current Projects & Work
-
-### **📋 Document Management System** *(Active Development)*
-- **Angular 16** application with **interactive UI elements**
-- Focus on **document collections** and **submission date tracking**
-- Advanced **user authentication** and **navigation systems**
-- **Responsive UI components** with **hover effects** and modern styling
-
-### **🌟 Portfolio Website** - [melbinjoseph.netlify.app](https://melbinjoseph.netlify.app/)
-- Showcase of development skills and projects
-- **Responsive design** with **Tailwind CSS** implementation
-
-### **🏗️ Dashboard Development**
-- Building comprehensive **user dashboards** with Angular 16
-- Focus on intuitive **navigation patterns** and clean interfaces
-- **Interactive UI components** for better user experience
-
 ## 💼 Core Expertise
 
 **🅰️ Angular 16 Development**
-- Modern component architecture with **navigation** and **authentication**
-- **Dashboard development** with focus on user experience
+- Modern component architecture with **navigation** and **authentication**[2]
+- **Dashboard development** with focus on user experience[2]
 
 **🎨 UI/UX Design**
 - **Responsive UI components** with advanced **hover effects**
-- **Tailwind CSS** implementation for modern styling
+- **Tailwind CSS** implementation for modern styling[2]
 
 **📊 Document Management**
-- **Document collections** with **submission tracking** systems
-- **Interactive UI elements** for enhanced functionality
+- **Document collections** with **submission tracking** systems[1]
+- **Interactive UI elements** for enhanced functionality[1]
 
 ## 🏆 GitHub Activity
 
@@ -76,6 +58,17 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melbin726&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+
+## 🎯 Featured Work
+
+### **🌟 Portfolio Website** - [melbinjoseph.netlify.app](https://melbinjoseph.netlify.app/)
+Showcase of development skills and projects with responsive design
+
+### **📋 Document Management Solutions**
+Angular 16 applications with interactive UI elements and submission tracking
+
+### **🏗️ Dashboard Applications**
+Comprehensive user dashboards with intuitive navigation patterns
 
 ## 📬 Let's Connect
 
